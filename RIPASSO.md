@@ -11,3 +11,8 @@
 * facciamo il push della repository
 
 - questo file è di utilizzo per il ripasso dei comandi di git e di inserimento di informazioni ( dopo aver fatto i commit e con aggiunte e unione di ramificazioni ) 
+
+
+# Aggiunta informazioni del nuovo file , dopo aver creato il nuovo ramo 
+
+- Nuovo file del nuovo ramo : 1Ramo.md 
